@@ -1,16 +1,13 @@
 # Análisis y Forecasting Registros de la Propiedad del Automotor
 
 Este proyecto realiza un análisis estadístico y un forecasting sobre un dataset del registro de la propiedad del automor en Argentina.
-En la página del IPECD, se encuentra este [Dataset](https://estadistica.corrientes.gob.ar/datosabiertos/files?dataset=5), que contiene el número de registros de autos y motos de Argentina, por provincia, desde el 2014 hasta el 2024.
+En la página del [IPECD](https://estadistica.corrientes.gob.ar/datosabiertos/), se encuentra este dataset [DNRPA](https://estadistica.corrientes.gob.ar/datosabiertos/files?dataset=5), que contiene el número de registros de autos y motos de Argentina, por provincia, desde el 2014 hasta el 2024. Puedes descargar el dataset mediante el mencionado enlace.
 La idea es realizar un breve análisis estadístico y entrenar un modelo simple para predecir la cantidad de registros a futuro. 
 
-El dataset está disponible bajo la licencia **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
-Puedes consultar los términos de la licencia aquí: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) 
 
 ## Archivos incluidos
 
 - 'selled_vehicles_arg.ipynb': notebook que contiene el análisis realizado.
-- 'DNRPA.csv': archivo de datos con la información utilizado. Fuente: [IPECD](https://estadistica.corrientes.gob.ar/datosabiertos/files?dataset=5)
 
 ## Requisitos
 
