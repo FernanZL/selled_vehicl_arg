@@ -29,6 +29,9 @@ Para instalar las dependencias, puedes usar el siguiente comando:
 pip install numpy pandas matplotlib scikit-learn seaborn lightgbm optuna statsmodels scipy jupyter
 ```
 
+## Descargar el Dataset
+Antes de ejecutar el proyecto, descarga el dataset desde el link provisto más arriba y colócalo en la misma carpeta donde se encuentra la notebook de Jupyter ('selled_vehicles_arg.ipynb').
+
 ## Como Ejecutar
 
 1. Clona el repositorio
