@@ -9,6 +9,8 @@ Puedes ver el gráfico de Tableau en el siguiente [enlace](https://public.tablea
 
 - 'selled_vehicles_arg.ipynb': notebook que contiene el análisis realizado.
 - 'Reg_vehic_arg.png': imagen del gráfico de Tableau.
+- 'selled_vehicles_arg.pdf': captura en pdf del archivo de Power BI.
+- 'selled_vehicles_arg.pbix': archivo Power BI.
 
 ## Requisitos
 
